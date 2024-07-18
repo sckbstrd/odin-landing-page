@@ -16,7 +16,6 @@ body {
 header {
     display: flex;
     flex-direction: column;
-    text-align: justify;
     padding: 50px;
     background-color: #1F2937;
     color: #F9FAF8;
@@ -24,7 +23,7 @@ header {
 
 .header-top {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-around;
 
 }
