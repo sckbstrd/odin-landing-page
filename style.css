@@ -56,11 +56,6 @@ header {
 }
 
 
-button {
-    align-self: flex-start;
-    background-color: #3882F6;
-}
-
 img {
     margin: 5px;
     max-width: 350px;
@@ -84,8 +79,9 @@ img {
     color: #1F2937;
 }
 
-#sign-up-button {
+.sign-up-button {
     align-self: center;
+    background-color: #3882F6;
     padding: 0 15px;
 }
 
@@ -160,6 +156,7 @@ a {
 .secondary {
     font-size: 18px;  
     color: #E5E7EB;
+    margin-right: auto;
 }
 
 p {
