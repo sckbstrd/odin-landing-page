@@ -83,12 +83,14 @@ img {
 
 #sign-up-button {
     align-self: center;
+    padding: 0 15px;
 }
 
 .row-container {
     display: flex;
     justify-content: center;
     background-color: #3882F6;
+
 }
 
 footer {
