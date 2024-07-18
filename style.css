@@ -142,8 +142,9 @@ a {
 }
 
 .info {
-    font-size: 24px;
-    color: #F9FAF8;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
 }
 
 a {
